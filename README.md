@@ -34,6 +34,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Google SRE Teams Monitor their Systems](https://medium.com/glasswall-engineering/how-google-sre-teams-monitor-their-systems-c62366580acc?source=rss-5aeda81f2373------2)
+- [Site Reliability Engineering — An Introduction](https://medium.com/glasswall-engineering/site-reliability-engineering-an-introduction-8b15e16f30b5?source=rss-5aeda81f2373------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ashkapow)
