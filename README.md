@@ -1,16 +1,59 @@
-### Hi there 👋
+### Hi there, I'm Ash Powell (aka Kapow) 👋
 
-<!--
-**AshKapow/ashkapow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a SRE / DevOps Engineer, technology enthusiast, fitness fan, and a very keen traveller!!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building and furthering DevOps and SRE processes and procedures
+- 🌱 I’m currently learning furthering my Python programming skills
+- 👯 I’m looking to collaborate with other content creators
+- 💬 Lets discuss what your favourite tools are and lets compare!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me 
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="email" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][email]
+[<img align="left" alt="steam" src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
+
+<br />
+<br />
+
+### Technology Stack:
+
+[<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][blog]
+[<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][blog]
+[<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />][blog]
+[<img align="left" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />][blog]
+[<img align="left" alt="Shell Scripting" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />][blog]
+[<img align="left" alt="MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />][blog]
+[<img align="left" alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" />][blog]
+
+<br />
+<br />
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@ashkapow)
+
+--- 
+### :zap: Recent Activity
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<br />
+<br />
+
+### :zap: GitHub Stats
+
+  <img align="left" alt="Ash Kapow's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ashkapow&show_icons=true&hide_border=true" />
+
+
+[blog]: https://medium.com/@ashkapow
+[linkedin]: https://www.linkedin.com/in/ashleypowell1/
+[email]: mailto:ash@thekapow.com
+[steam]: https://steamcommunity.com/profiles/76561198067079820/
