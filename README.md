@@ -7,7 +7,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Lets discuss what your favourite tools are and lets compare!
 
+<br />
+<br />
 
+--- 
 ### Connect with me 
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
@@ -18,6 +21,7 @@
 <br />
 <br />
 
+--- 
 ### Technology Stack:
 
 [<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][blog]
@@ -31,6 +35,7 @@
 <br />
 <br />
 
+--- 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -39,6 +44,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ashkapow)
+
+<br />
+<br />
 
 --- 
 ### :zap: Recent Activity
@@ -54,10 +62,10 @@
 <br />
 <br />
 
+--- 
 ### :zap: GitHub Stats
 
   <img align="left" alt="Ash Kapow's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ashkapow&show_icons=true&hide_border=true" />
-
 
 [blog]: https://medium.com/@ashkapow
 [linkedin]: https://www.linkedin.com/in/ashleypowell1/
