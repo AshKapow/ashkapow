@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AshKapow/ashkapow/pull/1) in [AshKapow/ashkapow](https://github.com/AshKapow/ashkapow)
-2. 💪 Opened PR [#1](https://github.com/AshKapow/ashkapow/pull/1) in [AshKapow/ashkapow](https://github.com/AshKapow/ashkapow)
-3. ❗️ Opened issue [#23](https://github.com/glasswall-sre/serverless-victoria/issues/23) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
-4. ❗️ Opened issue [#17](https://github.com/glasswall-sre/victoria_rebuilder/issues/17) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
-5. ❗️ Opened issue [#21](https://github.com/glasswall-sre/victoria_email/issues/21) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+1. 🎉 Merged PR [#22](https://github.com/glasswall-sre/victoria_email/pull/22) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+2. 🎉 Merged PR [#1](https://github.com/AshKapow/ashkapow/pull/1) in [AshKapow/ashkapow](https://github.com/AshKapow/ashkapow)
+3. 💪 Opened PR [#1](https://github.com/AshKapow/ashkapow/pull/1) in [AshKapow/ashkapow](https://github.com/AshKapow/ashkapow)
+4. ❗️ Opened issue [#23](https://github.com/glasswall-sre/serverless-victoria/issues/23) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
+5. ❗️ Opened issue [#17](https://github.com/glasswall-sre/victoria_rebuilder/issues/17) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
 <!--END_SECTION:activity-->
 
 <br />
