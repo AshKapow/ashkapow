@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/40) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
-2. ❗️ Closed issue [#41](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/41) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
-3. ❗️ Opened issue [#41](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/41) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
-4. 💪 Opened PR [#40](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/40) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
-5. ❗️ Closed issue [#28](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/28) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
+1. 🎉 Merged PR [#30](https://github.com/glasswall-sre/going-postal/pull/30) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
+2. 🎉 Merged PR [#40](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/40) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
+3. ❗️ Closed issue [#41](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/41) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
+4. ❗️ Opened issue [#41](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/41) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
+5. 💪 Opened PR [#40](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/40) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
 <!--END_SECTION:activity-->
 
 <br />
