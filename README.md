@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/40) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
-2. ❗️ Closed issue [#28](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/28) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
-3. 🎉 Merged PR [#22](https://github.com/glasswall-sre/victoria_email/pull/22) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-4. 🎉 Merged PR [#1](https://github.com/AshKapow/ashkapow/pull/1) in [AshKapow/ashkapow](https://github.com/AshKapow/ashkapow)
-5. 💪 Opened PR [#1](https://github.com/AshKapow/ashkapow/pull/1) in [AshKapow/ashkapow](https://github.com/AshKapow/ashkapow)
+1. 🎉 Merged PR [#40](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/40) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
+2. ❗️ Closed issue [#41](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/41) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
+3. ❗️ Opened issue [#41](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/41) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
+4. 💪 Opened PR [#40](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/40) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
+5. ❗️ Closed issue [#28](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/28) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
 <!--END_SECTION:activity-->
 
 <br />
