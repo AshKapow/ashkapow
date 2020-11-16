@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/glasswall-sre/victoria_rebuilder/pull/16) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
-2. ❗️ Closed issue [#5](https://github.com/glasswall-sre/victoria_rebuilder/issues/5) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
-3. ❗️ Closed issue [#6](https://github.com/glasswall-sre/victoria_rebuilder/issues/6) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
-4. ❗️ Closed issue [#14](https://github.com/glasswall-sre/victoria_rebuilder/issues/14) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
-5. 🎉 Merged PR [#30](https://github.com/glasswall-sre/going-postal/pull/30) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
+1. ❗️ Closed issue [#4](https://github.com/glasswall-sre/serverless-victoria/issues/4) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
+2. 🎉 Merged PR [#24](https://github.com/glasswall-sre/serverless-victoria/pull/24) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
+3. 💪 Opened PR [#24](https://github.com/glasswall-sre/serverless-victoria/pull/24) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
+4. 🎉 Merged PR [#18](https://github.com/glasswall-sre/victoria-security/pull/18) in [glasswall-sre/victoria-security](https://github.com/glasswall-sre/victoria-security)
+5. 💪 Opened PR [#18](https://github.com/glasswall-sre/victoria-security/pull/18) in [glasswall-sre/victoria-security](https://github.com/glasswall-sre/victoria-security)
 <!--END_SECTION:activity-->
 
 <br />
