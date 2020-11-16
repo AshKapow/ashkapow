@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/glasswall-sre/serverless-victoria/issues/4) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
-2. 🎉 Merged PR [#24](https://github.com/glasswall-sre/serverless-victoria/pull/24) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
-3. 💪 Opened PR [#24](https://github.com/glasswall-sre/serverless-victoria/pull/24) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
-4. 🎉 Merged PR [#18](https://github.com/glasswall-sre/victoria-security/pull/18) in [glasswall-sre/victoria-security](https://github.com/glasswall-sre/victoria-security)
-5. 💪 Opened PR [#18](https://github.com/glasswall-sre/victoria-security/pull/18) in [glasswall-sre/victoria-security](https://github.com/glasswall-sre/victoria-security)
+1. 🎉 Merged PR [#13](https://github.com/glasswall-sre/azure-nsg-checker/pull/13) in [glasswall-sre/azure-nsg-checker](https://github.com/glasswall-sre/azure-nsg-checker)
+2. 💪 Opened PR [#13](https://github.com/glasswall-sre/azure-nsg-checker/pull/13) in [glasswall-sre/azure-nsg-checker](https://github.com/glasswall-sre/azure-nsg-checker)
+3. ❗️ Closed issue [#4](https://github.com/glasswall-sre/serverless-victoria/issues/4) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
+4. 🎉 Merged PR [#24](https://github.com/glasswall-sre/serverless-victoria/pull/24) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
+5. 💪 Opened PR [#24](https://github.com/glasswall-sre/serverless-victoria/pull/24) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
 <!--END_SECTION:activity-->
 
 <br />
