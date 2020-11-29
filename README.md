@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a CI/CD Pipeline?](https://medium.com/glasswall-engineering/what-is-a-ci-cd-pipeline-36c29aeb1588?source=rss-5aeda81f2373------2)
 - [How Google SRE Teams Monitor their Systems](https://medium.com/glasswall-engineering/how-google-sre-teams-monitor-their-systems-c62366580acc?source=rss-5aeda81f2373------2)
 - [Site Reliability Engineering — An Introduction](https://medium.com/glasswall-engineering/site-reliability-engineering-an-introduction-8b15e16f30b5?source=rss-5aeda81f2373------2)
 <!-- BLOG-POST-LIST:END -->
