@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/glasswall-sre/victoria/pull/30) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-2. 🎉 Merged PR [#34](https://github.com/glasswall-sre/victoria_email/pull/34) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-3. 🎉 Merged PR [#33](https://github.com/glasswall-sre/victoria_email/pull/33) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-4. 🎉 Merged PR [#32](https://github.com/glasswall-sre/victoria_email/pull/32) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-5. 🎉 Merged PR [#31](https://github.com/glasswall-sre/victoria_email/pull/31) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+1. 🎉 Merged PR [#32](https://github.com/glasswall-sre/victoria/pull/32) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+2. 💪 Opened PR [#32](https://github.com/glasswall-sre/victoria/pull/32) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+3. 🎉 Merged PR [#28](https://github.com/glasswall-sre/victoria/pull/28) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+4. ❌ Closed PR [#30](https://github.com/glasswall-sre/victoria/pull/30) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+5. 🎉 Merged PR [#29](https://github.com/glasswall-sre/victoria/pull/29) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
 <!--END_SECTION:activity-->
 
 <br />
