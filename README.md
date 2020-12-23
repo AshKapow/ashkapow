@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/glasswall-sre/victoria/pull/36) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-2. 🎉 Merged PR [#35](https://github.com/glasswall-sre/victoria/pull/35) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-3. ❗️ Closed issue [#35](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/35) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
-4. 🎉 Merged PR [#42](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/42) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
-5. 🎉 Merged PR [#43](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/43) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
+1. 🗣 Commented on [#27](https://github.com/k8-proxy/k8-rebuild-rest-api/issues/27) in [k8-proxy/k8-rebuild-rest-api](https://github.com/k8-proxy/k8-rebuild-rest-api)
+2. ❗️ Opened issue [#27](https://github.com/k8-proxy/k8-rebuild-rest-api/issues/27) in [k8-proxy/k8-rebuild-rest-api](https://github.com/k8-proxy/k8-rebuild-rest-api)
+3. 🎉 Merged PR [#36](https://github.com/glasswall-sre/victoria/pull/36) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+4. 🎉 Merged PR [#35](https://github.com/glasswall-sre/victoria/pull/35) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+5. ❗️ Closed issue [#35](https://github.com/glasswall-sre/glasswall-sre.github.io/issues/35) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
 <!--END_SECTION:activity-->
 
 <br />
