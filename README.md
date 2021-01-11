@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/glasswall-sre/victoria_email/pull/35) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-2. 🗣 Commented on [#27](https://github.com/k8-proxy/k8-rebuild-rest-api/issues/27) in [k8-proxy/k8-rebuild-rest-api](https://github.com/k8-proxy/k8-rebuild-rest-api)
-3. ❗️ Opened issue [#27](https://github.com/k8-proxy/k8-rebuild-rest-api/issues/27) in [k8-proxy/k8-rebuild-rest-api](https://github.com/k8-proxy/k8-rebuild-rest-api)
-4. 🎉 Merged PR [#36](https://github.com/glasswall-sre/victoria/pull/36) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-5. 🎉 Merged PR [#35](https://github.com/glasswall-sre/victoria/pull/35) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+1. ❗️ Opened issue [#18](https://github.com/glasswall-sre/victoria_rebuilder/issues/18) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
+2. ❗️ Closed issue [#13](https://github.com/glasswall-sre/victoria_rebuilder/issues/13) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
+3. ❗️ Closed issue [#12](https://github.com/glasswall-sre/victoria_rebuilder/issues/12) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
+4. 🎉 Merged PR [#35](https://github.com/glasswall-sre/victoria_email/pull/35) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+5. 🗣 Commented on [#27](https://github.com/k8-proxy/k8-rebuild-rest-api/issues/27) in [k8-proxy/k8-rebuild-rest-api](https://github.com/k8-proxy/k8-rebuild-rest-api)
 <!--END_SECTION:activity-->
 
 <br />
