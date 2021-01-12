@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/glasswall-sre/victoria_email/issues/4) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-2. ❗️ Opened issue [#18](https://github.com/glasswall-sre/victoria_rebuilder/issues/18) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
-3. ❗️ Closed issue [#13](https://github.com/glasswall-sre/victoria_rebuilder/issues/13) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
-4. ❗️ Closed issue [#12](https://github.com/glasswall-sre/victoria_rebuilder/issues/12) in [glasswall-sre/victoria_rebuilder](https://github.com/glasswall-sre/victoria_rebuilder)
-5. 🎉 Merged PR [#35](https://github.com/glasswall-sre/victoria_email/pull/35) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+1. ❗️ Opened issue [#38](https://github.com/glasswall-sre/victoria_email/issues/38) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+2. ❗️ Closed issue [#29](https://github.com/glasswall-sre/victoria_email/issues/29) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+3. ❗️ Opened issue [#37](https://github.com/glasswall-sre/victoria_email/issues/37) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+4. ❗️ Opened issue [#36](https://github.com/glasswall-sre/victoria_email/issues/36) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+5. ❗️ Closed issue [#4](https://github.com/glasswall-sre/victoria_email/issues/4) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
 <!--END_SECTION:activity-->
 
 <br />
