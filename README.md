@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/glasswall-sre/victoria_email/pull/41) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-2. 🗣 Commented on [#37](https://github.com/glasswall-sre/victoria/issues/37) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-3. ❗️ Reopened issue [#37](https://github.com/glasswall-sre/victoria/issues/37) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+1. ❗️ Opened issue [#43](https://github.com/glasswall-sre/victoria_email/issues/43) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+2. ❗️ Opened issue [#42](https://github.com/glasswall-sre/victoria_email/issues/42) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+3. 🎉 Merged PR [#41](https://github.com/glasswall-sre/victoria_email/pull/41) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
 4. 🗣 Commented on [#37](https://github.com/glasswall-sre/victoria/issues/37) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-5. 🎉 Merged PR [#40](https://github.com/glasswall-sre/victoria_email/pull/40) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+5. ❗️ Reopened issue [#37](https://github.com/glasswall-sre/victoria/issues/37) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
 <!--END_SECTION:activity-->
 
 <br />
