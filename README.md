@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/glasswall-sre/victoria_email/pull/50) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-2. 🎉 Merged PR [#14](https://github.com/glasswall-sre/azure-nsg-checker/pull/14) in [glasswall-sre/azure-nsg-checker](https://github.com/glasswall-sre/azure-nsg-checker)
-3. 🎉 Merged PR [#20](https://github.com/glasswall-sre/victoria-security/pull/20) in [glasswall-sre/victoria-security](https://github.com/glasswall-sre/victoria-security)
-4. 🎉 Merged PR [#41](https://github.com/glasswall-sre/dead-letter-watcher/pull/41) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
-5. 🎉 Merged PR [#32](https://github.com/glasswall-sre/going-postal/pull/32) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
+1. 🎉 Merged PR [#51](https://github.com/glasswall-sre/victoria_email/pull/51) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+2. 🎉 Merged PR [#50](https://github.com/glasswall-sre/victoria_email/pull/50) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+3. 🎉 Merged PR [#14](https://github.com/glasswall-sre/azure-nsg-checker/pull/14) in [glasswall-sre/azure-nsg-checker](https://github.com/glasswall-sre/azure-nsg-checker)
+4. 🎉 Merged PR [#20](https://github.com/glasswall-sre/victoria-security/pull/20) in [glasswall-sre/victoria-security](https://github.com/glasswall-sre/victoria-security)
+5. 🎉 Merged PR [#41](https://github.com/glasswall-sre/dead-letter-watcher/pull/41) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
 <!--END_SECTION:activity-->
 
 <br />
