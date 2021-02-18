@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41](https://github.com/glasswall-sre/victoria/issues/41) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-2. 🗣 Commented on [#41](https://github.com/glasswall-sre/victoria/issues/41) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-3. ❗️ Opened issue [#41](https://github.com/glasswall-sre/victoria/issues/41) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-4. 🎉 Merged PR [#52](https://github.com/glasswall-sre/victoria_email/pull/52) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-5. 💪 Opened PR [#52](https://github.com/glasswall-sre/victoria_email/pull/52) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+1. ❗️ Opened issue [#54](https://github.com/glasswall-sre/victoria_email/issues/54) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+2. ❗️ Closed issue [#21](https://github.com/glasswall-sre/victoria_email/issues/21) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+3. ❗️ Opened issue [#42](https://github.com/glasswall-sre/dead-letter-watcher/issues/42) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+4. 🎉 Merged PR [#53](https://github.com/glasswall-sre/victoria_email/pull/53) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+5. ❗️ Closed issue [#41](https://github.com/glasswall-sre/victoria/issues/41) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
 <!--END_SECTION:activity-->
 
 <br />
