@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/glasswall-sre/victoria/pull/42) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-2. 💪 Opened PR [#42](https://github.com/glasswall-sre/victoria/pull/42) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-3. ❗️ Closed issue [#12](https://github.com/glasswall-sre/victoria_email/issues/12) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-4. 🗣 Commented on [#12](https://github.com/glasswall-sre/victoria_email/issues/12) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-5. ❗️ Closed issue [#11](https://github.com/glasswall-sre/victoria_email/issues/11) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+1. 🎉 Merged PR [#33](https://github.com/glasswall-sre/going-postal/pull/33) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
+2. 🎉 Merged PR [#21](https://github.com/glasswall-sre/victoria-security/pull/21) in [glasswall-sre/victoria-security](https://github.com/glasswall-sre/victoria-security)
+3. 🎉 Merged PR [#45](https://github.com/glasswall-sre/dead-letter-watcher/pull/45) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+4. 🎉 Merged PR [#15](https://github.com/glasswall-sre/azure-nsg-checker/pull/15) in [glasswall-sre/azure-nsg-checker](https://github.com/glasswall-sre/azure-nsg-checker)
+5. 🎉 Merged PR [#57](https://github.com/glasswall-sre/victoria_email/pull/57) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
 <!--END_SECTION:activity-->
 
 <br />
