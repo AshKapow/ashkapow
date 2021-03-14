@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com/glasswall-sre/victoria/issues/43) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-2. ❗️ Opened issue [#43](https://github.com/glasswall-sre/victoria/issues/43) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
-3. 🎉 Merged PR [#34](https://github.com/glasswall-sre/going-postal/pull/34) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
-4. 🎉 Merged PR [#46](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/46) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
-5. 🎉 Merged PR [#47](https://github.com/glasswall-sre/dead-letter-watcher/pull/47) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+1. 🎉 Merged PR [#56](https://github.com/glasswall-sre/dead-letter-watcher/pull/56) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+2. ❗️ Closed issue [#43](https://github.com/glasswall-sre/victoria/issues/43) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+3. ❗️ Opened issue [#43](https://github.com/glasswall-sre/victoria/issues/43) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+4. 🎉 Merged PR [#34](https://github.com/glasswall-sre/going-postal/pull/34) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
+5. 🎉 Merged PR [#46](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/46) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
 <!--END_SECTION:activity-->
 
 <br />
