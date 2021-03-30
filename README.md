@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/glasswall-sre/dead-letter-watcher/pull/75) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
-2. 🎉 Merged PR [#10](https://github.com/glasswall-sre/sre-logging/pull/10) in [glasswall-sre/sre-logging](https://github.com/glasswall-sre/sre-logging)
-3. 🎉 Merged PR [#73](https://github.com/glasswall-sre/dead-letter-watcher/pull/73) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
-4. 🎉 Merged PR [#72](https://github.com/glasswall-sre/dead-letter-watcher/pull/72) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
-5. 🎉 Merged PR [#71](https://github.com/glasswall-sre/dead-letter-watcher/pull/71) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+1. 🎉 Merged PR [#76](https://github.com/glasswall-sre/dead-letter-watcher/pull/76) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+2. 🎉 Merged PR [#75](https://github.com/glasswall-sre/dead-letter-watcher/pull/75) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+3. 🎉 Merged PR [#10](https://github.com/glasswall-sre/sre-logging/pull/10) in [glasswall-sre/sre-logging](https://github.com/glasswall-sre/sre-logging)
+4. 🎉 Merged PR [#73](https://github.com/glasswall-sre/dead-letter-watcher/pull/73) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+5. 🎉 Merged PR [#72](https://github.com/glasswall-sre/dead-letter-watcher/pull/72) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
 <!--END_SECTION:activity-->
 
 <br />
