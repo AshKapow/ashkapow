@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/glasswall-sre/dead-letter-watcher/pull/90) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
-2. 🎉 Merged PR [#89](https://github.com/glasswall-sre/dead-letter-watcher/pull/89) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
-3. 🎉 Merged PR [#88](https://github.com/glasswall-sre/dead-letter-watcher/pull/88) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
-4. 🎉 Merged PR [#36](https://github.com/glasswall-sre/going-postal/pull/36) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
-5. 🎉 Merged PR [#87](https://github.com/glasswall-sre/dead-letter-watcher/pull/87) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+1. 🎉 Merged PR [#30](https://github.com/glasswall-sre/serverless-victoria/pull/30) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
+2. 🎉 Merged PR [#91](https://github.com/glasswall-sre/dead-letter-watcher/pull/91) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+3. 🎉 Merged PR [#16](https://github.com/glasswall-sre/azure-nsg-checker/pull/16) in [glasswall-sre/azure-nsg-checker](https://github.com/glasswall-sre/azure-nsg-checker)
+4. 🎉 Merged PR [#90](https://github.com/glasswall-sre/dead-letter-watcher/pull/90) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+5. 🎉 Merged PR [#89](https://github.com/glasswall-sre/dead-letter-watcher/pull/89) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
 <!--END_SECTION:activity-->
 
 <br />
