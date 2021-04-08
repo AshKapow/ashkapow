@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/glasswall-sre/going-postal/pull/37) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
-2. 🎉 Merged PR [#60](https://github.com/glasswall-sre/victoria_email/pull/60) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-3. ❗️ Opened issue [#59](https://github.com/glasswall-sre/victoria_email/issues/59) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-4. ❗️ Opened issue [#58](https://github.com/glasswall-sre/victoria_email/issues/58) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-5. 🎉 Merged PR [#30](https://github.com/glasswall-sre/serverless-victoria/pull/30) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
+1. 🎉 Merged PR [#61](https://github.com/glasswall-sre/victoria_email/pull/61) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+2. 🎉 Merged PR [#37](https://github.com/glasswall-sre/going-postal/pull/37) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
+3. 🎉 Merged PR [#60](https://github.com/glasswall-sre/victoria_email/pull/60) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+4. ❗️ Opened issue [#59](https://github.com/glasswall-sre/victoria_email/issues/59) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+5. ❗️ Opened issue [#58](https://github.com/glasswall-sre/victoria_email/issues/58) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
 <!--END_SECTION:activity-->
 
 <br />
