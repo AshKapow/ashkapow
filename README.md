@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/glasswall-sre/victoria_cloud_backend/pull/6) in [glasswall-sre/victoria_cloud_backend](https://github.com/glasswall-sre/victoria_cloud_backend)
-2. 🎉 Merged PR [#92](https://github.com/glasswall-sre/dead-letter-watcher/pull/92) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
-3. 🎉 Merged PR [#63](https://github.com/glasswall-sre/victoria_email/pull/63) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-4. 🎉 Merged PR [#62](https://github.com/glasswall-sre/victoria_email/pull/62) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
-5. 🎉 Merged PR [#61](https://github.com/glasswall-sre/victoria_email/pull/61) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+1. 🎉 Merged PR [#47](https://github.com/glasswall-sre/glasswall-sre.github.io/pull/47) in [glasswall-sre/glasswall-sre.github.io](https://github.com/glasswall-sre/glasswall-sre.github.io)
+2. 🎉 Merged PR [#6](https://github.com/glasswall-sre/victoria_cloud_backend/pull/6) in [glasswall-sre/victoria_cloud_backend](https://github.com/glasswall-sre/victoria_cloud_backend)
+3. 🎉 Merged PR [#92](https://github.com/glasswall-sre/dead-letter-watcher/pull/92) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+4. 🎉 Merged PR [#63](https://github.com/glasswall-sre/victoria_email/pull/63) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
+5. 🎉 Merged PR [#62](https://github.com/glasswall-sre/victoria_email/pull/62) in [glasswall-sre/victoria_email](https://github.com/glasswall-sre/victoria_email)
 <!--END_SECTION:activity-->
 
 <br />
