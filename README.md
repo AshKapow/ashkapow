@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/glasswall-sre/going-postal/pull/39) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
-2. 🎉 Merged PR [#38](https://github.com/glasswall-sre/going-postal/pull/38) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
-3. 🎉 Merged PR [#32](https://github.com/glasswall-sre/serverless-victoria/pull/32) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
-4. 🎉 Merged PR [#100](https://github.com/glasswall-sre/dead-letter-watcher/pull/100) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
-5. 🎉 Merged PR [#99](https://github.com/glasswall-sre/dead-letter-watcher/pull/99) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
+1. 💪 Opened PR [#14359](https://github.com/microsoft/winget-pkgs/pull/14359) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🎉 Merged PR [#39](https://github.com/glasswall-sre/going-postal/pull/39) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
+3. 🎉 Merged PR [#38](https://github.com/glasswall-sre/going-postal/pull/38) in [glasswall-sre/going-postal](https://github.com/glasswall-sre/going-postal)
+4. 🎉 Merged PR [#32](https://github.com/glasswall-sre/serverless-victoria/pull/32) in [glasswall-sre/serverless-victoria](https://github.com/glasswall-sre/serverless-victoria)
+5. 🎉 Merged PR [#100](https://github.com/glasswall-sre/dead-letter-watcher/pull/100) in [glasswall-sre/dead-letter-watcher](https://github.com/glasswall-sre/dead-letter-watcher)
 <!--END_SECTION:activity-->
 
 <br />
