@@ -54,7 +54,7 @@
 ### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/glasswall-sre/victoria/pull/52) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
+1. 💪 Opened PR [#14359](https://github.com/microsoft/winget-pkgs/pull/14359) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 2. ❗️ Closed issue [#44](https://github.com/glasswall-sre/victoria/issues/44) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
 3. 🗣 Commented on [#44](https://github.com/glasswall-sre/victoria/issues/44) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
 4. 🎉 Merged PR [#51](https://github.com/glasswall-sre/victoria/pull/51) in [glasswall-sre/victoria](https://github.com/glasswall-sre/victoria)
