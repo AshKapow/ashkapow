@@ -15,6 +15,9 @@
 
 <p>
   <a href="mailto:ash@thekapow.com"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://medium.com/@ashkapow"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" />
+  <a href="https://twitter.com/ashkapow"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ashleypowell1"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
 
 ### Languages and Tools:
