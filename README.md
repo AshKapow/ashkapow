@@ -13,19 +13,9 @@
 ---
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://medium.com/@ashkapow#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://medium.com/@ashkapow#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ashkapow#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ashkapow#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ashleypowell1/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ashleypowell1/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-<br />
-<br />
+<p>
+  <a href="mailto:ash@thekapow.com"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</p>
 
 ### Languages and Tools:
 
