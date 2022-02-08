@@ -1,4 +1,4 @@
-### Hi there, I'm Ash Powell (aka Kapow) 👋
+### Hi there, I'm Ash Powell - aka Kapow 👋
 
 ## I'm a SRE / DevOps Manager, technology enthusiast, fitness fan, and a very keen traveller!!
 
@@ -6,9 +6,6 @@
 - 🌱 I’m currently furthering my Python programming skills
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Lets discuss what your favourite tools are and lets compare!
-
-<br />
-<br />
 
 ---
 ### Connect with me:
@@ -61,9 +58,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ashkapow)
-
-<br />
-<br />
 
 --- 
 ### :zap: Recent Activity
