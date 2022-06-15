@@ -64,15 +64,15 @@
 ### :zap: Recent Activity
   
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
-2. 💪 Opened PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
-3. 📔 Created new repository [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
-4. 🔱 Forked [AshKapow/Twitch-Channel-Points-Miner-v2](https://github.com/AshKapow/Twitch-Channel-Points-Miner-v2) from [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2)
+1. 🔱 Forked [AshKapow/catchtwo](https://github.com/AshKapow/catchtwo) from [devraza/catchtwo](https://github.com/devraza/catchtwo)
+2. 🎉 Merged PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
+3. 💪 Opened PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
+4. 📔 Created new repository [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 14th, 2022, 8:28:22 AM
+Last Updated: Wednesday, June 15th, 2022, 8:29:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
