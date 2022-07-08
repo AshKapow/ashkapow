@@ -64,15 +64,15 @@
 ### :zap: Recent Activity
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [AshKapow/catchtwo](https://github.com/AshKapow/catchtwo) from [devraza/catchtwo](https://github.com/devraza/catchtwo)
-2. 🎉 Merged PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
-3. 💪 Opened PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
-4. 📔 Created new repository [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
-5. 
+1. ❗️ Opened issue [#1484](https://github.com/DataDog/terraform-provider-datadog/issues/1484) in [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)
+2. 🔱 Forked [AshKapow/terraform-provider-datadog](https://github.com/AshKapow/terraform-provider-datadog) from [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)
+3. 🔱 Forked [AshKapow/catchtwo](https://github.com/AshKapow/catchtwo) from [devraza/catchtwo](https://github.com/devraza/catchtwo)
+4. 🎉 Merged PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
+5. 💪 Opened PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 7th, 2022, 8:29:13 AM
+Last Updated: Friday, July 8th, 2022, 8:30:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
