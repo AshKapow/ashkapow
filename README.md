@@ -51,7 +51,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do you need Both Site Reliability Engineering &lpar;SRE&rpar; and DevOps?](https://ashkapow.medium.com/why-do-you-need-both-site-reliability-engineering-sre-and-devops-cdeb0f9fee07?source=rss-5aeda81f2373------2)
+- [Is the role of an SRE team becoming overloaded with other responsibilities?](https://ashkapow.medium.com/is-the-role-of-an-sre-team-becoming-overloaded-with-other-responsibilities-46bf41481227?source=rss-5aeda81f2373------2)
+- [Why do you need both Site Reliability Engineering &lpar;SRE&rpar; and DevOps?](https://ashkapow.medium.com/why-do-you-need-both-site-reliability-engineering-sre-and-devops-cdeb0f9fee07?source=rss-5aeda81f2373------2)
 - [The Power of Data-Driven Decisions](https://medium.com/glasswall-engineering/the-power-of-data-driven-decisions-521ef982424b?source=rss-5aeda81f2373------2)
 - [What is a CI/CD Pipeline?](https://medium.com/glasswall-engineering/what-is-a-ci-cd-pipeline-36c29aeb1588?source=rss-5aeda81f2373------2)
 - [How Google SRE Teams Monitor their Systems](https://medium.com/glasswall-engineering/how-google-sre-teams-monitor-their-systems-c62366580acc?source=rss-5aeda81f2373------2)
