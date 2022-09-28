@@ -65,15 +65,15 @@
 ### :zap: Recent Activity
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1484](https://github.com/DataDog/terraform-provider-datadog/issues/1484) in [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)
-2. 🔱 Forked [AshKapow/terraform-provider-datadog](https://github.com/AshKapow/terraform-provider-datadog) from [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)
-3. 🔱 Forked [AshKapow/catchtwo](https://github.com/AshKapow/catchtwo) from [devraza/catchtwo](https://github.com/devraza/catchtwo)
-4. 🎉 Merged PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
+1. ❗️ Opened issue [#63](https://github.com/GlitchedMythos/se-widgets/issues/63) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+2. ❗️ Opened issue [#62](https://github.com/GlitchedMythos/se-widgets/issues/62) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+3. ❗️ Opened issue [#1484](https://github.com/DataDog/terraform-provider-datadog/issues/1484) in [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)
+4. 🔱 Forked [AshKapow/terraform-provider-datadog](https://github.com/AshKapow/terraform-provider-datadog) from [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)
 5. 💪 Opened PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 27th, 2022, 8:39:48 AM
+Last Updated: Wednesday, September 28th, 2022, 8:35:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
