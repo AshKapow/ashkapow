@@ -65,15 +65,15 @@
 ### :zap: Recent Activity
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#63](https://github.com/GlitchedMythos/se-widgets/issues/63) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-2. ❗️ Opened issue [#62](https://github.com/GlitchedMythos/se-widgets/issues/62) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-3. ❗️ Opened issue [#1484](https://github.com/DataDog/terraform-provider-datadog/issues/1484) in [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)
-4. 🔱 Forked [AshKapow/terraform-provider-datadog](https://github.com/AshKapow/terraform-provider-datadog) from [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog)
-5. 💪 Opened PR [#1](https://github.com/AshKapow/CodeCamp/pull/1) in [AshKapow/CodeCamp](https://github.com/AshKapow/CodeCamp)
+1. 💪 Opened PR [#66](https://github.com/GlitchedMythos/se-widgets/pull/66) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+2. ❌ Closed PR [#65](https://github.com/GlitchedMythos/se-widgets/pull/65) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+3. ❌ Closed PR [#65](https://github.com/GlitchedMythos/se-widgets/pull/65) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+4. 💪 Opened PR [#65](https://github.com/GlitchedMythos/se-widgets/pull/65) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+5. 🔱 Forked [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets) from [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 28th, 2022, 8:35:29 AM
+Last Updated: Thursday, September 29th, 2022, 8:34:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
