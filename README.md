@@ -65,15 +65,15 @@
 ### :zap: Recent Activity
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#68](https://github.com/GlitchedMythos/se-widgets/issues/68) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-2. ❗️ Opened issue [#67](https://github.com/GlitchedMythos/se-widgets/issues/67) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-3. 💬 Commented on [#66](https://github.com/GlitchedMythos/se-widgets/pull/66#issuecomment-1267058292) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-4. 💪 Opened PR [#66](https://github.com/GlitchedMythos/se-widgets/pull/66) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-5. ❌ Closed PR [#65](https://github.com/GlitchedMythos/se-widgets/pull/65) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+1. 💬 Commented on [#67](https://github.com/GlitchedMythos/se-widgets/issues/67#issuecomment-1273843237) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+2. ❗️ Opened issue [#68](https://github.com/GlitchedMythos/se-widgets/issues/68) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+3. ❗️ Opened issue [#67](https://github.com/GlitchedMythos/se-widgets/issues/67) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+4. 💬 Commented on [#66](https://github.com/GlitchedMythos/se-widgets/pull/66#issuecomment-1267058292) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+5. 💪 Opened PR [#66](https://github.com/GlitchedMythos/se-widgets/pull/66) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 10th, 2022, 8:38:43 AM
+Last Updated: Tuesday, October 11th, 2022, 8:37:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
