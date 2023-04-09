@@ -65,15 +65,15 @@
 ### :zap: Recent Activity
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#79](https://github.com/GlitchedMythos/se-widgets/pull/79#issuecomment-1456948676) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-2. 👍 Approved [#79](https://github.com/GlitchedMythos/se-widgets/pull/79#pullrequestreview-1327159632) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-3. 🎉 Merged PR [#1](https://github.com/AshKapow/se-widgets/pull/1) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
-4. 💪 Opened PR [#1](https://github.com/AshKapow/se-widgets/pull/1) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
-5. ❌ Closed PR [#80](https://github.com/GlitchedMythos/se-widgets/pull/80) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+1. 🎉 Merged PR [#2](https://github.com/AshKapow/se-widgets/pull/2) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
+2. 💪 Opened PR [#2](https://github.com/AshKapow/se-widgets/pull/2) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
+3. 💬 Commented on [#79](https://github.com/GlitchedMythos/se-widgets/pull/79#issuecomment-1456948676) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+4. 👍 Approved [#79](https://github.com/GlitchedMythos/se-widgets/pull/79#pullrequestreview-1327159632) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+5. 🎉 Merged PR [#1](https://github.com/AshKapow/se-widgets/pull/1) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 8th, 2023, 8:05:54 AM
+Last Updated: Sunday, April 9th, 2023, 8:05:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
