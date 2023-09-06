@@ -1,11 +1,12 @@
 ### Hi there, I'm Ash Powell - aka Kapow 👋
 
-## I'm a SRE / DevOps Manager, technology enthusiast, fitness fan, and a very keen traveller!!
+## Bridging the worlds of Site Reliability Engineering (SRE) and Management 🚀
+With a knack for establishing robust SRE processes and a penchant for fostering cross-functional collaborations, I'm not just about the code but about the people and processes that make tech tick. You'll find me flexing my fitness muscles or quenching my wanderlust when I'm not in tech mode.
 
-- 🔭 I’m currently working on building and furthering DevOps and SRE processes and procedures
-- 🌱 I’m currently furthering my Python programming skills
-- 👯 I’m looking to collaborate with other content creators
-- 💬 Lets discuss what your favourite tools are and lets compare!
+- 🔭 **Leadership & Strategy:** Currently orchestrating the evolution of DevOps and SRE methodologies to ensure smooth sailing of our tech infrastructures.
+- 🌱 **Continuous Learning:** Venturing deeper into the realms of Python to augment my tech toolbelt.
+- 👯 **Collaboration:** Keen on partnering with fellow tech trailblazers to drive innovation and content creation.
+- 💬 **Tech Talk:** What's your go-to tool in the SRE arsenal? Let's exchange notes!
 
 ---
 ### Connect with me:
@@ -19,36 +20,71 @@
 
 ### Languages and Tools:
 
+#### Cloud Providers:
 <p>
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img alt="Azure Pipelines" src="https://img.shields.io/badge/-Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white" />
-  <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white" />
-  <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
-  <img alt="Elastic" src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img alt="MSSQL" src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="New Relic" src="https://img.shields.io/badge/-New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" />
-  <img alt="PagerDuty" src="https://img.shields.io/badge/-PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
---- 
-### 📕 Latest Blog Posts
+#### Containerisation & Orchestration:
+<p>
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+#### CI/CD & Automation:
+<p>
+<img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+<img alt="Azure Pipelines" src="https://img.shields.io/badge/-Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img alt="GitLab CI/CD" src="https://img.shields.io/badge/-GitLab_CI/CD-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+</p>
+
+#### Databases & Messaging:
+<p>
+<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+<img alt="MSSQL" src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+#### Monitoring, Logging & Observability:
+<p>
+<img alt="Datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+<img alt="Elastic" src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
+<img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
+<img alt="New Relic" src="https://img.shields.io/badge/-New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" />
+<img alt="PagerDuty" src="https://img.shields.io/badge/-PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white" />
+</p>
+
+#### Programming & Scripting:
+<p>
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+<img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
+
+#### Communication and Collaboration:
+<p>
+<img alt="JIRA" src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+<img alt="Microsoft Teams" src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" />
+<img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+<img alt="Zoom" src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />
+<img alt="Webex" src="https://img.shields.io/badge/-Webex-00C6FF?style=flat-square&logo=cisco-webex&logoColor=white" />
+<img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+</p>
+
+### 📕 Thought Leadership
+
+I believe in not just doing things but in sharing knowledge. Here are a few pieces where I've penned down my thoughts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Is the role of an SRE team becoming overloaded with other responsibilities?](https://ashkapow.medium.com/is-the-role-of-an-sre-team-becoming-overloaded-with-other-responsibilities-46bf41481227?source=rss-5aeda81f2373------2)
