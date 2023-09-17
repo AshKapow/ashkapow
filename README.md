@@ -87,6 +87,7 @@ With a knack for establishing robust SRE processes and a penchant for fostering 
 I believe in not just doing things but in sharing knowledge. Here are a few pieces where I've penned down my thoughts:
 
 <!-- BLOG-POST-LIST:START -->
+- [From Medical Emergency to IT Outage: My Evolution in Crisis Management](https://ashkapow.medium.com/from-medical-emergency-to-it-outage-my-evolution-in-crisis-management-d3d435b66444?source=rss-5aeda81f2373------2)
 - [Balancing Proactive and Reactive Tasks as an SRE](https://ashkapow.medium.com/balancing-proactive-and-reactive-tasks-as-an-sre-ed7a4966dd0a?source=rss-5aeda81f2373------2)
 - [Is the role of an SRE team becoming overloaded with other responsibilities?](https://ashkapow.medium.com/is-the-role-of-an-sre-team-becoming-overloaded-with-other-responsibilities-46bf41481227?source=rss-5aeda81f2373------2)
 - [Why do you need both Site Reliability Engineering &lpar;SRE&rpar; and DevOps?](https://ashkapow.medium.com/why-do-you-need-both-site-reliability-engineering-sre-and-devops-cdeb0f9fee07?source=rss-5aeda81f2373------2)
