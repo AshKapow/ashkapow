@@ -77,8 +77,6 @@ With a knack for establishing robust SRE processes and a penchant for fostering 
 <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
 <img alt="Microsoft Teams" src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" />
 <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-<img alt="Zoom" src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />
-<img alt="Webex" src="https://img.shields.io/badge/-Webex-00C6FF?style=flat-square&logo=cisco-webex&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 </p>
 
