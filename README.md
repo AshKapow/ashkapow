@@ -101,15 +101,15 @@ I believe in not just doing things but in sharing knowledge. Here are a few piec
 ### :zap: Recent Activity
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#22](https://github.com/howroyd/simonsays/issues/22) in [howroyd/simonsays](https://github.com/howroyd/simonsays)
-2. ⭐ Starred [howroyd/simonsays](https://github.com/howroyd/simonsays)
-3. 💪 Opened PR [#82](https://github.com/GlitchedMythos/se-widgets/pull/82) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-4. 🔱 Forked [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets) from [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-5. 💪 Opened PR [#2](https://github.com/AshKapow/se-widgets/pull/2) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
+1. 📔 Created new repository [AshKapow/mtg-deck-review](https://github.com/AshKapow/mtg-deck-review)
+2. ❗️ Opened issue [#22](https://github.com/howroyd/simonsays/issues/22) in [howroyd/simonsays](https://github.com/howroyd/simonsays)
+3. ⭐ Starred [howroyd/simonsays](https://github.com/howroyd/simonsays)
+4. 💪 Opened PR [#82](https://github.com/GlitchedMythos/se-widgets/pull/82) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+5. 🔱 Forked [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets) from [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 21st, 2023, 8:06:31 AM
+Last Updated: Friday, September 22nd, 2023, 8:06:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
