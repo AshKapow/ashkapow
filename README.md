@@ -85,6 +85,7 @@ With a knack for establishing robust SRE processes and a penchant for fostering 
 I believe in not just doing things but in sharing knowledge. Here are a few pieces where I've penned down my thoughts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Life Lessons from the Ambulance: How Emergency Medicine Shaped My Approach to IT](https://ashkapow.medium.com/life-lessons-from-the-ambulance-how-emergency-medicine-shaped-my-approach-to-it-d5be1ff290d1?source=rss-5aeda81f2373------2)
 - [Preparation is Key: A Peek into My Pre-Shift Rituals in Medicine and IT](https://ashkapow.medium.com/preparation-is-key-a-peek-into-my-pre-shift-rituals-in-medicine-and-it-7106e4e3d1ed?source=rss-5aeda81f2373------2)
 - [The Lifelong Journey of Learning: CPD in Medicine and IT](https://ashkapow.medium.com/the-lifelong-journey-of-learning-cpd-in-medicine-and-it-25733cb0ce41?source=rss-5aeda81f2373------2)
 - [Unified Command: Synchronised Communication in Medicine and IT](https://ashkapow.medium.com/unified-command-synchronised-communication-in-medicine-and-it-a3a36a8e6a94?source=rss-5aeda81f2373------2)
@@ -93,7 +94,6 @@ I believe in not just doing things but in sharing knowledge. Here are a few piec
 - [Is the role of an SRE team becoming overloaded with other responsibilities?](https://ashkapow.medium.com/is-the-role-of-an-sre-team-becoming-overloaded-with-other-responsibilities-46bf41481227?source=rss-5aeda81f2373------2)
 - [Why do you need both Site Reliability Engineering &lpar;SRE&rpar; and DevOps?](https://ashkapow.medium.com/why-do-you-need-both-site-reliability-engineering-sre-and-devops-cdeb0f9fee07?source=rss-5aeda81f2373------2)
 - [The Power of Data-Driven Decisions](https://medium.com/glasswall-engineering/the-power-of-data-driven-decisions-521ef982424b?source=rss-5aeda81f2373------2)
-- [What is a CI/CD Pipeline?](https://medium.com/glasswall-engineering/what-is-a-ci-cd-pipeline-36c29aeb1588?source=rss-5aeda81f2373------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ashkapow)
