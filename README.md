@@ -91,6 +91,7 @@ I believe in not just doing things but in sharing knowledge. Here are a few piec
 - [Unified Command: Synchronised Communication in Medicine and IT](https://ashkapow.medium.com/unified-command-synchronised-communication-in-medicine-and-it-a3a36a8e6a94?source=rss-5aeda81f2373------2)
 - [From Medical Emergency to IT Outage: My Evolution in Crisis Management](https://ashkapow.medium.com/from-medical-emergency-to-it-outage-my-evolution-in-crisis-management-d3d435b66444?source=rss-5aeda81f2373------2)
 - [Balancing Proactive and Reactive Tasks as an SRE](https://ashkapow.medium.com/balancing-proactive-and-reactive-tasks-as-an-sre-ed7a4966dd0a?source=rss-5aeda81f2373------2)
+- [My thoughts on… Datadog](https://ashkapow.medium.com/my-thoughts-on-datadog-52877368d75a?source=rss-5aeda81f2373------2)
 - [Is the role of an SRE team becoming overloaded with other responsibilities?](https://ashkapow.medium.com/is-the-role-of-an-sre-team-becoming-overloaded-with-other-responsibilities-46bf41481227?source=rss-5aeda81f2373------2)
 - [Why do you need both Site Reliability Engineering &lpar;SRE&rpar; and DevOps?](https://ashkapow.medium.com/why-do-you-need-both-site-reliability-engineering-sre-and-devops-cdeb0f9fee07?source=rss-5aeda81f2373------2)
 - [The Power of Data-Driven Decisions](https://medium.com/glasswall-engineering/the-power-of-data-driven-decisions-521ef982424b?source=rss-5aeda81f2373------2)
