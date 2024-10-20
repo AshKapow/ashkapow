@@ -94,7 +94,7 @@ I believe in not just doing things but in sharing knowledge. Here are a few piec
 - [My thoughts on… Datadog](https://ashkapow.medium.com/my-thoughts-on-datadog-52877368d75a?source=rss-5aeda81f2373------2)
 - [Is the role of an SRE team becoming overloaded with other responsibilities?](https://ashkapow.medium.com/is-the-role-of-an-sre-team-becoming-overloaded-with-other-responsibilities-46bf41481227?source=rss-5aeda81f2373------2)
 - [Why do you need both Site Reliability Engineering &lpar;SRE&rpar; and DevOps?](https://ashkapow.medium.com/why-do-you-need-both-site-reliability-engineering-sre-and-devops-cdeb0f9fee07?source=rss-5aeda81f2373------2)
-- [The Power of Data-Driven Decisions](https://medium.com/glasswall-engineering/the-power-of-data-driven-decisions-521ef982424b?source=rss-5aeda81f2373------2)
+- [The Power of Data-Driven Decisions](https://ashkapow.medium.com/the-power-of-data-driven-decisions-521ef982424b?source=rss-5aeda81f2373------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ashkapow)
