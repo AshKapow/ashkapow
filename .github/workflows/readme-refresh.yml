@@ -1,0 +1,33 @@
+name: Refresh README (Blog + Activity)
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # daily 08:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 10
+          feed_list: "https://medium.com/feed/@ashkapow"
+          template: "- [$title]($url)"
+          date_format: "d mmm yyyy"
+
+      - name: Update README with recent GitHub activity
+        uses: Readme-Workflows/recent-activity@v2.3.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
