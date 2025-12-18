@@ -103,15 +103,15 @@ I believe in not just doing things but in sharing knowledge. Here are a few piec
 ### :zap: Recent Activity
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [AshKapow/dispatcharr-manager](https://github.com/AshKapow/dispatcharr-manager) from [d4rk-4lchemy/dispatcharr-manager](https://github.com/d4rk-4lchemy/dispatcharr-manager)
-2. 💪 Opened PR [#3](undefined) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
-3. ❌ Closed PR [#2](undefined) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
+1. ❌ Closed PR [#85](undefined) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+2. 💪 Opened PR [#85](undefined) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+3. 🔱 Forked [AshKapow/dispatcharr-manager](https://github.com/AshKapow/dispatcharr-manager) from [d4rk-4lchemy/dispatcharr-manager](https://github.com/d4rk-4lchemy/dispatcharr-manager)
 4. 💪 Opened PR [#2](undefined) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
 5. 💪 Opened PR [#1](undefined) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 17th, 2025, 8:11:07 AM
+Last Updated: Thursday, December 18th, 2025, 8:10:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
