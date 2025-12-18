@@ -1,4 +1,4 @@
-### Hi there, I'm Ash Powell aka Ash Kapow
+# Hi there, I'm Ash Powell aka Ash Kapow
 
 ## Bridging the worlds of Site Reliability Engineering (SRE), DevOps, and Platform Engineering
 I build and operate resilient, Kubernetes-first platforms that help teams ship reliably and repeatedly. My work sits at the intersection of **SRE, DevOps, and Platform Engineering** combining hands-on engineering depth with a focus on **operational maturity, developer experience, and pragmatic automation**.
@@ -51,14 +51,14 @@ I like platforms that:
 
 ## Languages and Tools:
 
-# Cloud Providers:
+### Cloud Providers:
 <p>
 <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
-# Containerisation & Orchestration:
+### Containerisation & Orchestration:
 <p>
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img alt="OpenShift" src="https://img.shields.io/badge/-OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
@@ -66,7 +66,7 @@ I like platforms that:
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-# CI/CD & Automation:
+### CI/CD & Automation:
 <p>
 <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 <img alt="Pulumi" src="https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white" />
@@ -78,7 +78,7 @@ I like platforms that:
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
 
-# Databases & Messaging:
+### Databases & Messaging:
 <p>
 <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
@@ -87,7 +87,7 @@ I like platforms that:
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-# Monitoring, Logging & Observability:
+### Monitoring, Logging & Observability:
 <p>
 <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
 <img alt="Elastic" src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
@@ -96,7 +96,7 @@ I like platforms that:
 <img alt="PagerDuty" src="https://img.shields.io/badge/-PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white" />
 </p>
 
-# Programming & Scripting:
+### Programming & Scripting:
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
