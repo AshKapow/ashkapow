@@ -5,6 +5,10 @@ settings:
 
   url_text: "{ID}"
 
+  disabled_events:
+    - "push"
+    # - "comments"
+
 date:
   text: "Last updated: {DATE}"
 
