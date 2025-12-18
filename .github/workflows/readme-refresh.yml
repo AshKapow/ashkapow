@@ -31,7 +31,7 @@ jobs:
           skip_commit: true
 
       - name: Update README with recent GitHub activity
-        uses: jamesgeorge007/github-activity-readme@v0.4.4
+        uses: jamesgeorge007/github-activity-readme@v0.4.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
