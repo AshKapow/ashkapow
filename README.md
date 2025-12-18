@@ -135,4 +135,7 @@ Pinned repositories generally focus on:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#3](undefined) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
+2. ❌ Closed PR [#85](undefined) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+3. 💪 Opened PR [#85](undefined) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
 <!--END_SECTION:activity-->
