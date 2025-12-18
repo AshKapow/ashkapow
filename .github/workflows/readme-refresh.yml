@@ -16,7 +16,8 @@ jobs:
   refresh-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -29,17 +30,22 @@ jobs:
           date_format: "d mmm yyyy"
           skip_commit: true
 
-      - name: Update README with recent GitHub activity (no commit)
+      - name: Update README with recent GitHub activity
         uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit changes (if any)
+      - name: Commit & push (if changed)
         run: |
-          git status
           git config user.name "readme-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add README.md
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          if git diff --cached --quiet; then
+            echo "No README changes to commit"
+            exit 0
+          fi
+
           git commit -m "chore(readme): refresh blog + activity"
           git push
