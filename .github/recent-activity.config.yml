@@ -1,14 +1,12 @@
 settings:
-  commit_msg: "chore(readme): update recent activity"
+  commit_msg: "chore(readme): refresh blog posts and activity"
   max_lines: 5
   readme_file: "./README.md"
 
   url_text: "{ID}"
 
-  date:
-    timezone: "Europe/London"
-    text: "Last updated: {DATE}"
-    format: "dddd, d mmmm yyyy, HH:mm:ss"
+date:
+  text: "Last updated: {DATE}"
 
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
