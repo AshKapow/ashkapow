@@ -25,10 +25,10 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@ashkapow"
-          max_post_count: 10
-          template: "- [$title]($url)"
-          date_format: "d mmm yyyy"
+          max_post_count: 5
+          template: "- **[$title]($url)**"
           skip_commit: true
+
 
       - name: Update README with recent GitHub activity
         uses: jamesgeorge007/github-activity-readme@v0.4.5
