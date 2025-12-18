@@ -32,8 +32,9 @@ jobs:
 
       - name: Update README with recent GitHub activity
         uses: jamesgeorge007/github-activity-readme@v0.4.4
-        with:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
           MAX_LINES: 5
 
       - name: Commit & push (if changed)
