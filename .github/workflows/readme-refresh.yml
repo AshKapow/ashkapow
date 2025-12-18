@@ -26,8 +26,9 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@ashkapow"
           max_post_count: 5
-          template: "- **[$title]($url)**\n"
+          template: "- **[$title]($url)**$newline"
           remove_url_query: true
+          tag_post_pre_newline: true
           skip_commit: true
 
       - name: Update README with recent GitHub activity
