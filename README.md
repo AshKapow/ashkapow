@@ -128,7 +128,9 @@ Pinned repositories generally focus on:
 
 I write occasionally about reliability engineering, incident response, and platform maturity—often drawing parallels between emergency medicine and operating complex systems under pressure.
 
-<!-- BLOG-POST-LIST:START -->- **[Life Lessons from the Ambulance: How Emergency Medicine Shaped My Approach to IT](https://ashkapow.medium.com/life-lessons-from-the-ambulance-how-emergency-medicine-shaped-my-approach-to-it-d5be1ff290d1?source=rss-5aeda81f2373------2)**- **[Preparation is Key: A Peek into My Pre-Shift Rituals in Medicine and IT](https://ashkapow.medium.com/preparation-is-key-a-peek-into-my-pre-shift-rituals-in-medicine-and-it-7106e4e3d1ed?source=rss-5aeda81f2373------2)**- **[The Lifelong Journey of Learning: CPD in Medicine and IT](https://ashkapow.medium.com/the-lifelong-journey-of-learning-cpd-in-medicine-and-it-25733cb0ce41?source=rss-5aeda81f2373------2)**- **[Unified Command: Synchronised Communication in Medicine and IT](https://ashkapow.medium.com/unified-command-synchronised-communication-in-medicine-and-it-a3a36a8e6a94?source=rss-5aeda81f2373------2)**- **[From Medical Emergency to IT Outage: My Evolution in Crisis Management](https://ashkapow.medium.com/from-medical-emergency-to-it-outage-my-evolution-in-crisis-management-d3d435b66444?source=rss-5aeda81f2373------2)**<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ashkapow)
 
