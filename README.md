@@ -1,14 +1,14 @@
-## Hi there, I'm Ash Powell aka Ash Kapow 👋
+## Hi there, I'm Ash Powell aka Ash Kapow
 
 ## Bridging the worlds of Site Reliability Engineering (SRE), DevOps, and Platform Engineering
-I build and operate resilient, Kubernetes-first platforms that help teams ship reliably and repeatedly. My day-to-day sits at the intersection of **SRE, DevOps, and Platform Engineering**—combining hands-on engineering depth with a focus on **operational maturity, developer experience, and pragmatic automation**.
+I build and operate resilient, Kubernetes-first platforms that help teams ship reliably and repeatedly. My work sits at the intersection of **SRE, DevOps, and Platform Engineering** combining hands-on engineering depth with a focus on **operational maturity, developer experience, and pragmatic automation**.
 
 I’ve worked across **multi-cloud**, **highly regulated**, and **Critical National Infrastructure (CNI)** environments—helping teams move from manual, fragile workflows to automated delivery with clear guardrails, observability, and supportability.
 
-- **Reliability & Platforms:** Evolving SRE and platform practices across complex estates (cloud + regulated/CNI).
-- **Building & Automating:** GitOps workflows, pipeline optimisation, and Python-based tooling to reduce toil.
-- **Collaboration:** Strong preference for tight loops with dev teams—platform work only counts if it gets used.
-- **Let’s talk:** SLOs/error budgets, Kubernetes/OpenShift ops, CI/CD, GitOps, incident response, observability.
+- **Reliability & Platforms:** Evolving SRE and platform practices across complex estates (cloud + regulated/CNI)
+- **Building & Automating:** GitOps workflows, pipeline optimisation, and Python-based tooling to reduce toil
+- **Collaboration:** Tight loops with dev teams—platform work only counts if it gets used
+- **Let’s talk:** SLOs/error budgets, Kubernetes/OpenShift ops, CI/CD, GitOps, incident response, observability
 
 ---
 
@@ -125,7 +125,6 @@ Pinned repositories generally focus on:
 ---
 
 ### 📕 Thought Leadership
-I write about SRE, incident response, observability, and platform maturity—often drawing parallels between emergency medicine and reliability engineering.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
