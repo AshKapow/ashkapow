@@ -134,7 +134,7 @@ I write occasionally about reliability engineering, incident response, and platf
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
-2. ❌ Closed PR [#85](undefined) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
-3. 💪 Opened PR [#85](undefined) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+1. 🗣 Commented on [#84](https://github.com/GlitchedMythos/se-widgets/issues/84#issuecomment-3700017677) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+2. ❌ Closed PR [#82](undefined) in [GlitchedMythos/se-widgets](https://github.com/GlitchedMythos/se-widgets)
+3. ❌ Merged PR [#4](undefined) in [AshKapow/se-widgets](https://github.com/AshKapow/se-widgets)
 <!--END_SECTION:activity-->
