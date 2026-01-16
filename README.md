@@ -134,7 +134,7 @@ I write occasionally about reliability engineering, incident response, and platf
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [AshKapow/GhostieBot](https://github.com/AshKapow/GhostieBot)
-2. 💪 Opened PR [#2](undefined) in [AshKapow/GhostieBot](https://github.com/AshKapow/GhostieBot)
-3. ❌ Merged PR [#1](undefined) in [AshKapow/GhostieBot](https://github.com/AshKapow/GhostieBot)
+1. ❌ Merged PR [#3](undefined) in [AshKapow/GhostieBot](https://github.com/AshKapow/GhostieBot)
+2. 💪 Opened PR [#3](undefined) in [AshKapow/GhostieBot](https://github.com/AshKapow/GhostieBot)
+3. ❌ Merged PR [#2](undefined) in [AshKapow/GhostieBot](https://github.com/AshKapow/GhostieBot)
 <!--END_SECTION:activity-->
