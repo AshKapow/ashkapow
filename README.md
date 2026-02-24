@@ -134,7 +134,7 @@ I write occasionally about reliability engineering, incident response, and platf
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [AshKapow/GhostieBot](https://github.com/AshKapow/GhostieBot)
+1. 🗣 Commented on [#3](https://github.com/lordkyuusei/pokeclicker-companion/issues/3#issuecomment-3943717000) in [lordkyuusei/pokeclicker-companion](https://github.com/lordkyuusei/pokeclicker-companion)
 2. 💪 Opened PR [#3](undefined) in [AshKapow/GhostieBot](https://github.com/AshKapow/GhostieBot)
 3. ❌ Merged PR [#2](undefined) in [AshKapow/GhostieBot](https://github.com/AshKapow/GhostieBot)
 <!--END_SECTION:activity-->
