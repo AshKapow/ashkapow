@@ -134,7 +134,7 @@ I write occasionally about reliability engineering, incident response, and platf
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [AshKapow/EDMS-DataBridge](https://github.com/AshKapow/EDMS-DataBridge)
-2. 💪 Opened PR [#2](undefined) in [AshKapow/EDMS-DataBridge](https://github.com/AshKapow/EDMS-DataBridge)
-3. ❌ Merged PR [#1](undefined) in [AshKapow/EDMS-DataBridge](https://github.com/AshKapow/EDMS-DataBridge)
+1. ❌ Merged PR [#9](undefined) in [AshKapow/EDMS-DataBridge](https://github.com/AshKapow/EDMS-DataBridge)
+2. 💪 Opened PR [#9](undefined) in [AshKapow/EDMS-DataBridge](https://github.com/AshKapow/EDMS-DataBridge)
+3. ❌ Merged PR [#8](undefined) in [AshKapow/EDMS-DataBridge](https://github.com/AshKapow/EDMS-DataBridge)
 <!--END_SECTION:activity-->
