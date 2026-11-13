@@ -134,7 +134,7 @@ I write occasionally about reliability engineering, incident response, and platf
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [AshKapow/KapOBD](https://github.com/AshKapow/KapOBD)
-2. 💪 Opened PR [#3](undefined) in [AshKapow/KapOBD](https://github.com/AshKapow/KapOBD)
-3. ❌ Merged PR [#2](undefined) in [AshKapow/KapOBD](https://github.com/AshKapow/KapOBD)
+1. ❌ Merged PR [#8](undefined) in [AshKapow/KapOBD](https://github.com/AshKapow/KapOBD)
+2. 💪 Opened PR [#8](undefined) in [AshKapow/KapOBD](https://github.com/AshKapow/KapOBD)
+3. ❌ Merged PR [#7](undefined) in [AshKapow/KapOBD](https://github.com/AshKapow/KapOBD)
 <!--END_SECTION:activity-->
